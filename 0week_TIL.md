@@ -15,4 +15,4 @@
 - 원하는 데이터가 어디에 있고, 어떻게 연결되어 있는지 확인하기
   
 # 포켓몬 ERD
-![image](https://github.com/user-attachments/assets/18817ce5-2ed3-44bd-9048-e35a5c548a39)
+![image](https://github.com/user-attachments/assets/a86894bf-c2c1-4140-8afb-2d5edcea94bf)
